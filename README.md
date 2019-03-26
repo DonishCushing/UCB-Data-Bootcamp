@@ -7,4 +7,4 @@ Topics Covered Thus Far:
 2) Visual Basic     [A macro that can count and analyze large amounts of stock data]
 3) Python           [Two scripts, one that analyzes profit and loss information, and another that analyzes polling information.]
 4) Pandas           [Two analyses: One of videogame data, and one of school district data.]
-5) MatPlotLib       [Data Visualizations carried out on Ride--sharing and Pharmaceutical data.]
+5) MatPlotLib       [Data Visualizations carried out on Ride-sharing and Pharmaceutical data.]
