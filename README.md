@@ -2,7 +2,7 @@
 A fast-paced and densely respected data analytics certification program.
 Dates involved: Feb 11, 2019 - August 5, 2019
 
-Topics Covered:
+Topics Covered Thus Far:
 1) Excel            [A brief analysis of Kickstarter data]
 2) Visual Basic     [A macro that can count and analyze large amounts of stock data]
 3) Python           [Two scripts, one that analyzes profit and loss information, and another that analyzes polling information.]
